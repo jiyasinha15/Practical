@@ -1,5 +1,7 @@
 import { MyContext } from "./Context";
 import Child from "./Child";
+import { MyContext } from "./components/Context";
+import Child from "./components/Child";
 
 function App() {
   return (
